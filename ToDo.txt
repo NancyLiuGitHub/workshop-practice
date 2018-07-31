@@ -1,4 +1,4 @@
-dsafdaf
+﻿dsafdaf
 adsfadsConversion functions needed：
  - Dollars to Centers
  - Gallons to Liters
@@ -6,3 +6,6 @@ adsfadsConversion functions needed：
 
 --This is added by Trey
  - Feet to Inches
+
+
+This is added by Yan
